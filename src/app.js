@@ -91,7 +91,7 @@ app.listen(port, () => {
     console.log('server is up on port port', +port);
 })
 
-/*
+/*locally install----
 1. npm install --save-dev nodemon
 2. npx nodemon
 3. "run commend: " npx nodemon -e js,hbs
